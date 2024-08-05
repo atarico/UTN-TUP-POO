@@ -1,0 +1,14 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\bin\Debug\net8.0\Empleado.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\bin\Debug\net8.0\Empleado.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\bin\Debug\net8.0\Empleado.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\bin\Debug\net8.0\Empleado.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\bin\Debug\net8.0\Empleado.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\Empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\Empleado.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\Empleado.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\Empleado.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\Empleado.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\refint\Empleado.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\Empleado.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\Empleado.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\Empleado\obj\Debug\net8.0\ref\Empleado.dll
