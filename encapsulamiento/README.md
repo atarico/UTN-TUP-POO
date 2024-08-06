@@ -39,3 +39,9 @@ Este ejercicio presenta una clase `Estudiante` con propiedades `Nombre`, `Legajo
 
 - **Abstracción:** Método para actualizar el promedio con validación de entrada.
 - **Encapsulamiento:** Gestión de los datos del estudiante mediante propiedades.
+
+## Bibliografía
+
+Para entender mejor los conceptos de la programación orientada a objetos y cómo se aplican en el análisis y diseño de software, se recomienda consultar la bibliografía de Grady Booch:
+
+- Grady Booch. _Análisis y diseño orientado a objetos_. Addison-Wesley, 1994.
