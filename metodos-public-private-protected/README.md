@@ -1,7 +1,5 @@
 # Métodos: public - private - protected
 
-Este repositorio contiene varios ejemplos de código en C# diseñados para ilustrar los conceptos de abstracción, herencia y polimorfismo. Cada ejercicio presenta una situación diferente donde se aplican estos pilares fundamentales de la programación orientada a objetos.
-
 ## Ejercicio 1: Clase Animal y Clase Perro
 
 ### Descripción General
