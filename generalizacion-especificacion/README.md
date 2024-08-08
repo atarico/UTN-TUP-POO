@@ -6,7 +6,7 @@
 
 En este ejercicio, se definen varias clases relacionadas con instrumentos musicales. `InstrumentoMusical` es la clase base, y de ella derivan `InstrumentoMusicalDeCuerdas` e `InstrumentoMusicalDeViento`. A su vez, `InstrumentoMusicalDeCuerdas` tiene dos clases derivadas: `Guitarra` y `Piano`, mientras que `InstrumentoMusicalDeViento` tiene una clase derivada: `Trompeta`.
 
-### Diagrama Entidad Relación
+### Diagrama de Clases
 
 <p align="center">
     <img src="./Instrumento/diagramaEntidadRelacion.jpeg">
