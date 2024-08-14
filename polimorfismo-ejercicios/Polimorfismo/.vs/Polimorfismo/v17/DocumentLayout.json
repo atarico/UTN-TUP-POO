@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\polimorfismo-ejercicios\\Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D61050A-436E-44AC-9BE5-DEFBF139299E}|Publicacion\\Publicacion.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\polimorfismo-ejercicios\\polimorfismo\\publicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D61050A-436E-44AC-9BE5-DEFBF139299E}|Publicacion\\Publicacion.csproj|solutionrelative:publicacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5451C0D-0165-48F4-843A-25BC4F61FCA8}|Transporte\\Transporte.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\polimorfismo-ejercicios\\polimorfismo\\transporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5451C0D-0165-48F4-843A-25BC4F61FCA8}|Transporte\\Transporte.csproj|solutionrelative:transporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8264BD13-33B5-4425-B3EA-6C75A8C43976}|Planta\\Planta.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\polimorfismo-ejercicios\\polimorfismo\\planta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8264BD13-33B5-4425-B3EA-6C75A8C43976}|Planta\\Planta.csproj|solutionrelative:planta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\polimorfismo-ejercicios\\Polimorfismo\\Publicacion\\Program.cs",
+              "RelativeDocumentMoniker": "Publicacion\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\polimorfismo-ejercicios\\Polimorfismo\\Publicacion\\Program.cs",
+              "RelativeToolTip": "Publicacion\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAxwDQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:03:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\polimorfismo-ejercicios\\Polimorfismo\\Transporte\\Program.cs",
+              "RelativeDocumentMoniker": "Transporte\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\polimorfismo-ejercicios\\Polimorfismo\\Transporte\\Program.cs",
+              "RelativeToolTip": "Transporte\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwDcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:39:34.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\polimorfismo-ejercicios\\Polimorfismo\\Planta\\Program.cs",
+              "RelativeDocumentMoniker": "Planta\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\polimorfismo-ejercicios\\Polimorfismo\\Planta\\Program.cs",
+              "RelativeToolTip": "Planta\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwDIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:24:38.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
