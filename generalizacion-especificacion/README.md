@@ -9,7 +9,7 @@ En este ejercicio, se definen varias clases relacionadas con instrumentos musica
 ### Diagrama de Clases
 
 <p align="center">
-    <img src="./Instrumento/diagramaEntidadRelacion.jpeg">
+    <img src="./Instrumento/diagramaEntidadRelacion.jpeg"> 
 </p>
 
 ### Consigna
