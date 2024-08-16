@@ -55,24 +55,24 @@ El proyecto se organiza en las siguientes carpetas y archivos:
 
 ## Relación entre Clases
 
-1. **Herencia**:
+- **Escuela**: Contiene aulas y un administrador.
+- **Aula**: Contiene estudiantes y tiene un profesor.
+- **Estudiante**: Representa a un estudiante.
+- **Profesor**: Representa a un profesor.
+- **Administrador**: Representa al administrador de la escuela.
 
-   - Las clases `Administrador`, `Aula`, `Escuela`, `Estudiante`, `Materia`, y `Profesor` heredan de `EntidadConNombre`.
+### Relaciones
 
-2. **Implementación de Interfaces**:
+1. **Composición**: La escuela contiene aulas. Si la escuela se elimina, las aulas también se eliminan.
+2. **Agregación**: El aula contiene estudiantes. Si el aula se elimina, los estudiantes pueden existir independientemente.
+3. **Asociación**: El aula tiene un profesor. La escuela tiene un administrador. Ambas son relaciones de asociación.
 
-   - `Escuela`, `Aula`, y `Profesor` implementan la interfaz `IListaEditable<T>`, lo que les permite agregar y quitar elementos de sus respectivas listas internas.
-   - `EntidadConNombre` implementa la interfaz `IMostrable`, lo que permite que todas las clases derivadas muestren detalles específicos de la entidad.
+### Explicación de las Relaciones
 
-3. **Composición**:
-   - `Escuela` contiene un `Administrador` y una lista de `Aula`.
-   - `Aula` contiene un `Profesor` y una lista de `Estudiante`.
-   - `Profesor` contiene una lista de `Materia`.
-
-## Cómo Ejecutar el Proyecto
-
-1. Clonar el repositorio en tu máquina local.
-2. Abrir el proyecto en tu entorno de desarrollo integrado (IDE) favorito, como Visual Studio.
-3. Compilar y ejecutar el proyecto.
+- **Composición (Escuela -> Aulas)**: La relación entre Escuela y Aula es de composición. Si la escuela se destruye, las aulas también se destruyen.
+- **Agregación (Aula -> Estudiantes)**: La relación entre Aula y Estudiante es de agregación. Los estudiantes pueden existir independientemente de las aulas.
+- **Asociación (Aula -> Profesor)**: La relación entre Aula y Profesor es de asociación. Un aula tiene un profesor, pero el profesor puede existir independientemente del aula.
+- **Asociación (Escuela -> Administrador)**: Tanto Escuela como Administrador pueden existir independientemente, la relación es de asociación y es meramente semántica.
+- **Realización (EntidadConNombre -> IMostrable)**: Esta relación se usa cuando implementamos una interfaz. No se usa cardinalida. Se puede conocer como una relación de implementación.
 
 ---
