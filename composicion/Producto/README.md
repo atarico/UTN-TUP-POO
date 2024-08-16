@@ -21,4 +21,13 @@ En este ejercicio, se implementa un sistema básico para gestionar una orden de 
 - **Encapsulamiento**: Protección de las propiedades `CantidadStock` y `Precio` en la clase `Producto`, permitiendo que solo se modifiquen de manera controlada.
 - **Colecciones**: Uso de una lista (`List<Producto>`) para manejar dinámicamente los productos en una orden de compra.
 
+### Relaciones Entre Clases
+
+1. **Composición (Relación fuerte entre `OrdenCompra` y `Producto`)**:
+
+   - La clase `OrdenCompra` contiene y gestiona una colección de objetos de tipo `Producto`. La composición indica que la `OrdenCompra` es responsable del ciclo de vida de los productos que contiene.
+
+2. **Agregación (Relación débil entre `Producto` y `OrdenCompra`)**:
+   - Los objetos `Producto` pueden existir independientemente de cualquier `OrdenCompra`. La agregación refleja que los productos no dependen de la existencia de una orden para existir.
+
 ---
