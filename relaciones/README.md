@@ -73,6 +73,6 @@ El proyecto se organiza en las siguientes carpetas y archivos:
 - **Agregación (Aula -> Estudiantes)**: La relación entre Aula y Estudiante es de agregación. Los estudiantes pueden existir independientemente de las aulas.
 - **Asociación (Aula -> Profesor)**: La relación entre Aula y Profesor es de asociación. Un aula tiene un profesor, pero el profesor puede existir independientemente del aula.
 - **Asociación (Escuela -> Administrador)**: Tanto Escuela como Administrador pueden existir independientemente, la relación es de asociación y es meramente semántica.
-- **Realización (EntidadConNombre -> IMostrable)**: Esta relación se usa cuando implementamos una interfaz. No se usa cardinalida. Se puede conocer como una relación de implementación.
+- **Realización (EntidadConNombre -> IMostrable)**: Esta relación se usa cuando implementamos una interfaz. No se usa cardinalidad. Se puede conocer como una relación de implementación.
 
 ---
