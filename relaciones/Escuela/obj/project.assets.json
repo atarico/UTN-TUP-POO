@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\atari\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\POO-Relaciones\\Escuela\\Escuela.csproj",
+      "projectUniqueName": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\relaciones\\Escuela\\Escuela.csproj",
       "projectName": "Escuela",
-      "projectPath": "C:\\Users\\user\\source\\repos\\POO-Relaciones\\Escuela\\Escuela.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\POO-Relaciones\\Escuela\\obj\\",
+      "projectPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\relaciones\\Escuela\\Escuela.csproj",
+      "packagesPath": "C:\\Users\\atari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\relaciones\\Escuela\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\atari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
