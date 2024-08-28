@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaMonitoreoClima
-build_property.ProjectDir = C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\composicion-Clima\SistemaMonitoreoClima\SistemaMonitoreoClima\
+build_property.ProjectDir = C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones-Clima\SistemaMonitoreoClima\SistemaMonitoreoClima\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
