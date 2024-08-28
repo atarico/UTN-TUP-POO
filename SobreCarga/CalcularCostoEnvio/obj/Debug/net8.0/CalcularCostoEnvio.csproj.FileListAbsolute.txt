@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\bin\Debug\net8.0\CalcularCostoEnvio.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\bin\Debug\net8.0\CalcularCostoEnvio.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\bin\Debug\net8.0\CalcularCostoEnvio.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\bin\Debug\net8.0\CalcularCostoEnvio.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\bin\Debug\net8.0\CalcularCostoEnvio.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\refint\CalcularCostoEnvio.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\CalcularCostoEnvio.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\CalcularCostoEnvio\obj\Debug\net8.0\ref\CalcularCostoEnvio.dll
