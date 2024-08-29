@@ -1,0 +1,14 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\bin\Debug\net8.0\DispositivoElectronico.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\bin\Debug\net8.0\DispositivoElectronico.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\bin\Debug\net8.0\DispositivoElectronico.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\bin\Debug\net8.0\DispositivoElectronico.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\bin\Debug\net8.0\DispositivoElectronico.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\DispositivoElectronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\DispositivoElectronico.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\DispositivoElectronico.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\DispositivoElectronico.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\DispositivoElectronico.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\refint\DispositivoElectronico.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\DispositivoElectronico.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\DispositivoElectronico.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\DispositivoElectronico\obj\Debug\net8.0\ref\DispositivoElectronico.dll
