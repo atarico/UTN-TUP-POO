@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\bin\Debug\net8.0\ServicioTecnico.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\bin\Debug\net8.0\ServicioTecnico.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\bin\Debug\net8.0\ServicioTecnico.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\bin\Debug\net8.0\ServicioTecnico.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\bin\Debug\net8.0\ServicioTecnico.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\refint\ServicioTecnico.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ServicioTecnico.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\SobreCarga\ServicioTecnico\obj\Debug\net8.0\ref\ServicioTecnico.dll
