@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\bin\Debug\net8.0\Instrumento.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\bin\Debug\net8.0\Instrumento.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\bin\Debug\net8.0\Instrumento.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\bin\Debug\net8.0\Instrumento.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\bin\Debug\net8.0\Instrumento.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\refint\Instrumento.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\Instrumento.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\generalizacion-especificacion\Instrumento\obj\Debug\net8.0\ref\Instrumento.dll
