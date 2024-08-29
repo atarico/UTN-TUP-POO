@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\bin\Debug\net8.0\Planta.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\bin\Debug\net8.0\Planta.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\bin\Debug\net8.0\Planta.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\bin\Debug\net8.0\Planta.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\bin\Debug\net8.0\Planta.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\refint\Planta.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\Planta.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\polimorfismo-ejercicios\Polimorfismo\Planta\obj\Debug\net8.0\ref\Planta.dll
