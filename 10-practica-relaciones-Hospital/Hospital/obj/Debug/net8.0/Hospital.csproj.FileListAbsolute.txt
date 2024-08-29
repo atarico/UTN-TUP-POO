@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\bin\Debug\net8.0\Hospital.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\bin\Debug\net8.0\Hospital.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\bin\Debug\net8.0\Hospital.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\bin\Debug\net8.0\Hospital.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\bin\Debug\net8.0\Hospital.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\refint\Hospital.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\Hospital.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\practica-relaciones\Hospital\Hospital\obj\Debug\net8.0\ref\Hospital.dll

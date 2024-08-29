@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\especializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\especializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\saladeoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\saladeoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\equipomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\equipomedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\practica-relaciones\\hospital\\hospital\\modelos\\historialmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C380DB98-BF9B-4A7D-9C64-5D642B2AC4DD}|Hospital\\Hospital.csproj|solutionrelative:hospital\\modelos\\historialmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\Hospital.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Hospital.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\Hospital.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:26:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Departamento.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\Departamento.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Departamento.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\Departamento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:22:57.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Procedimiento.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Procedimiento.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\Procedimiento.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Procedimiento.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\Procedimiento.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:43:02.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalaDeOperaciones.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\SalaDeOperaciones.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\SalaDeOperaciones.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\SalaDeOperaciones.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\SalaDeOperaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:33:13.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Especializacion.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Especializacion.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\Especializacion.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Especializacion.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\Especializacion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:16:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipoMedico.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\EquipoMedico.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\EquipoMedico.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\EquipoMedico.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\EquipoMedico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:38:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HistorialMedico.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\HistorialMedico.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\HistorialMedico.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\HistorialMedico.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\HistorialMedico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:16:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Paciente.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\Paciente.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Paciente.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:12:26.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Medico.cs",
+              "RelativeDocumentMoniker": "Hospital\\Modelos\\Medico.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Modelos\\Medico.cs",
+              "RelativeToolTip": "Hospital\\Modelos\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:16:21.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\practica-relaciones\\Hospital\\Hospital\\Program.cs",
+              "RelativeToolTip": "Hospital\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA+wBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:55:43.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
