@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcularCostoEnvio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85471a063ef3b347a82a3d23246947fd6e34e0df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cad8aeed1a0de440e2061908ab2af04299b0c5c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcularCostoEnvio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcularCostoEnvio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
