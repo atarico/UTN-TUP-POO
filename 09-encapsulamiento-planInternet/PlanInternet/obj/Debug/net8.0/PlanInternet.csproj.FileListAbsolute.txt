@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\bin\Debug\net8.0\PlanInternet.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\bin\Debug\net8.0\PlanInternet.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\bin\Debug\net8.0\PlanInternet.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\bin\Debug\net8.0\PlanInternet.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\bin\Debug\net8.0\PlanInternet.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\refint\PlanInternet.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\PlanInternet.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\encapsulamiento-planInternet\PlanInternet\obj\Debug\net8.0\ref\PlanInternet.dll
