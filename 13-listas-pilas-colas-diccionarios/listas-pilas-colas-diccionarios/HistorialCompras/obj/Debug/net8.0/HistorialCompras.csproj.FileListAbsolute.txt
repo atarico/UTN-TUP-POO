@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\bin\Debug\net8.0\HistorialCompras.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\bin\Debug\net8.0\HistorialCompras.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\bin\Debug\net8.0\HistorialCompras.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\bin\Debug\net8.0\HistorialCompras.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\bin\Debug\net8.0\HistorialCompras.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\refint\HistorialCompras.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\HistorialCompras.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\HistorialCompras\obj\Debug\net8.0\ref\HistorialCompras.dll

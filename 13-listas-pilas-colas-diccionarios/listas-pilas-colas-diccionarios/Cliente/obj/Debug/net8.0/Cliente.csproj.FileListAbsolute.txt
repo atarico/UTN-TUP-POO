@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\bin\Debug\net8.0\Cliente.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\bin\Debug\net8.0\Cliente.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\bin\Debug\net8.0\Cliente.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\bin\Debug\net8.0\Cliente.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\bin\Debug\net8.0\Cliente.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\refint\Cliente.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\Cliente.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\Cliente\obj\Debug\net8.0\ref\Cliente.dll

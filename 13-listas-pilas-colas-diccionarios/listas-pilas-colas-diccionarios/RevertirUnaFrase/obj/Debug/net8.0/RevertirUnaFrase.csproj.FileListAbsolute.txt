@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\bin\Debug\net8.0\RevertirUnaFrase.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\bin\Debug\net8.0\RevertirUnaFrase.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\bin\Debug\net8.0\RevertirUnaFrase.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\bin\Debug\net8.0\RevertirUnaFrase.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\bin\Debug\net8.0\RevertirUnaFrase.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\refint\RevertirUnaFrase.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\RevertirUnaFrase.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\16-listas-pilas-colas-diccionarios\listas-pilas-colas-diccionarios\RevertirUnaFrase\obj\Debug\net8.0\ref\RevertirUnaFrase.dll
