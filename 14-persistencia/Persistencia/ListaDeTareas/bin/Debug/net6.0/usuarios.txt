@@ -1,0 +1,6 @@
+agustin
+actualizar repo|False
+-
+antonio
+dictar clase|True
+-
