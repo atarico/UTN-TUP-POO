@@ -1,0 +1,15 @@
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\bin\Debug\net8.0\ListaContactos.exe
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\bin\Debug\net8.0\ListaContactos.deps.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\bin\Debug\net8.0\ListaContactos.runtimeconfig.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\bin\Debug\net8.0\ListaContactos.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\bin\Debug\net8.0\ListaContactos.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.AssemblyInfoInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.AssemblyInfo.cs
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.csproj.CoreCompileInputs.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.sourcelink.json
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\refint\ListaContactos.dll
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.pdb
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ListaContactos.genruntimeconfig.cache
+C:\Users\atari\OneDrive\Escritorio\archivos\C#\POO\14-persistencia\Persistencia\ListaContactos\obj\Debug\net8.0\ref\ListaContactos.dll

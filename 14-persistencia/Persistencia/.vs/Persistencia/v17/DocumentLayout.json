@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\14-persistencia\\Persistencia\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FFE2-40E3-4F71-A10A-CA69EB4DF6A0}|ListaContactos\\ListaContactos.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\14-persistencia\\persistencia\\listacontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FFE2-40E3-4F71-A10A-CA69EB4DF6A0}|ListaContactos\\ListaContactos.csproj|solutionrelative:listacontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FFE2-40E3-4F71-A10A-CA69EB4DF6A0}|ListaContactos\\ListaContactos.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\14-persistencia\\persistencia\\listacontactos\\models\\systemcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FFE2-40E3-4F71-A10A-CA69EB4DF6A0}|ListaContactos\\ListaContactos.csproj|solutionrelative:listacontactos\\models\\systemcontacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D625FFE2-40E3-4F71-A10A-CA69EB4DF6A0}|ListaContactos\\ListaContactos.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\poo\\14-persistencia\\persistencia\\listacontactos\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D625FFE2-40E3-4F71-A10A-CA69EB4DF6A0}|ListaContactos\\ListaContactos.csproj|solutionrelative:listacontactos\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemContacto.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\14-persistencia\\Persistencia\\ListaContactos\\Models\\SystemContacto.cs",
+              "RelativeDocumentMoniker": "ListaContactos\\Models\\SystemContacto.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\14-persistencia\\Persistencia\\ListaContactos\\Models\\SystemContacto.cs",
+              "RelativeToolTip": "ListaContactos\\Models\\SystemContacto.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:36:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\14-persistencia\\Persistencia\\ListaContactos\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "ListaContactos\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\14-persistencia\\Persistencia\\ListaContactos\\Models\\Contacto.cs",
+              "RelativeToolTip": "ListaContactos\\Models\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:33:48.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\14-persistencia\\Persistencia\\ListaContactos\\Program.cs",
+              "RelativeDocumentMoniker": "ListaContactos\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\POO\\14-persistencia\\Persistencia\\ListaContactos\\Program.cs",
+              "RelativeToolTip": "ListaContactos\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:28:24.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
