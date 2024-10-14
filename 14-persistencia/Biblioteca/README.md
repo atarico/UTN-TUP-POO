@@ -8,6 +8,7 @@
 </div>
 
 > [!IMPORTANT]
+> Organización y Estructura
 
 ## Estructura del Proyecto
 
@@ -57,6 +58,7 @@ El usuario puede elegir entre las siguientes opciones del menú:
    Al elegir la opción de "Guardar y Salir", los datos actualizados se guardarán en los archivos.
 
 > [!TIP]
+> Para implementar mejoras
 
 ## Ejercitaciones y Mejoras
 
