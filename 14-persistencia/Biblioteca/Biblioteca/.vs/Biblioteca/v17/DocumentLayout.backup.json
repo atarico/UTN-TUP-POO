@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\biblioteca\\biblioteca\\biblioteca\\models\\sysbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\sysbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\biblioteca\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\biblioteca\\biblioteca\\biblioteca\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\biblioteca\\biblioteca\\biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\biblioteca\\biblioteca\\biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\biblioteca\\biblioteca\\biblioteca\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|c:\\users\\atari\\onedrive\\escritorio\\archivos\\c#\\biblioteca\\biblioteca\\biblioteca\\models\\librousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AFE4D4-94DB-459C-9E85-CAADE9D1AC5F}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\librousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Libro.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Libro.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:18:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Prestamo.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Prestamo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:23:37.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Usuario.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:19:05.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\LibroUsuario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\LibroUsuario.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\LibroUsuario.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\LibroUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:18:31.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SysBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\SysBiblioteca.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\SysBiblioteca.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\SysBiblioteca.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\SysBiblioteca.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwGQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:44:19.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Models\\Menu.cs",
+              "RelativeToolTip": "Biblioteca\\Models\\Menu.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:44:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\atari\\OneDrive\\Escritorio\\archivos\\C#\\Biblioteca\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:17:02.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
