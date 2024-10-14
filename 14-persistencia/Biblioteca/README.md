@@ -4,7 +4,7 @@
 ## Diagrama
 
 <div align="center"> 
-    <img src="../Biblioteca/Biblioteca/diagrama_biblioteca.svg" style="background-color: gray; padding: 10px;" />
+    <img src="../Biblioteca/Biblioteca/diagrama_biblioteca.svg" style="background-color: lightgray; padding: 10px;" />
 </div>
 
 > [!IMPORTANT]
